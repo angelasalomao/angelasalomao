@@ -1,6 +1,6 @@
 ### Oii, eu sou a Angela Salomão 👋
 
-👩🏻‍💻 Estudante de Desenvolvimento Web
+👩🏻‍💻 Iniciante na carreira de Desenvolvimento Web com foco em Front-End
 ##
 <div align="center">
   <a href="https://github.com/angelasalomao">
